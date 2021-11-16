@@ -1,5 +1,5 @@
 # anchor-hello-world
-Example using aNCHOR
+Example using Anchor based on: https://youtu.be/cvW8EwGHw8U
 
 Create the anchor workspace.
 ```
